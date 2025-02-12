@@ -1,2 +1,6 @@
-print("This is the python file")
-print("Gowtham this is second line")
+def my_function():
+    a = 5
+    return a
+
+
+my_function()
